@@ -1,0 +1,23 @@
+{
+  "name": "kubeecms/kcms-cfm",
+  "description": "Manage and deploy configuration changes",
+  "keywords": ["kcms-cfm", "cfm", "env", "kcms", "kubee"],
+  "type": "wordpress-muplugin",
+  "homepage": "https://github.com/KubeeCMS/KCMS-Cfm/",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "KubeeCMS",
+      "homepage": "https://github.com/KubeeCMS/KCMS-Cfm/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/KubeeCMS/KCMS-Cfm/issues/",
+    "source": "https://github.com/KubeeCMS/KCMS-Cfm/"
+  },
+  "require": {
+    "php": ">=7.3",
+    "symfony/yaml": "^3.3"
+  }
+}
